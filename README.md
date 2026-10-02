@@ -1,2 +1,1 @@
 # algorithm-lab
-# algorithm-lab
